@@ -10,7 +10,13 @@ This repository implements a **Prompt Compression Framework** that optimizes lar
 
 ## 🧩 System Architecture
 
-The system is divided into several interconnected stages inspired by the architecture diagram (`RLDia1.drawio.pdf`):
+The system is divided into several interconnected stages inspired by the architecture diagram (`RL_FINETUNE_ARCHITECTURE.jpg`):
+## 🧩 System Architecture
+
+Below is the high-level architecture of the RL-based Prompt Compression Framework.
+
+![RL Fine-Tune Architecture](./RL_FINETUNE_ARCHITECTURE.jpg)
+
 
 ### 1. Data Preparation
 - **Raw Dataset:** Original prompt–response pairs collected from diverse domains.
