@@ -15,7 +15,8 @@ The system is divided into several interconnected stages inspired by the archite
 
 Below is the high-level architecture of the RL-based Prompt Compression Framework.
 
-![Architecture Diagram](`RL_FINETUNE_ARCHITECTURE.jpg`)
+![RL Fine-Tune Architecture](./RL_FINETUNE_ARCHITECTURE.jpg)
+
 
 ### 1. Data Preparation
 - **Raw Dataset:** Original prompt–response pairs collected from diverse domains.
