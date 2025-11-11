@@ -1,6 +1,6 @@
 # 🧠 RL-Prompt-Compression
 
-[![Open In Colab](https://colab.research.google.com/github/SreeyaSrikanth/RL-Prompt-Compression/blob/main/Another_copy_of_phi3_GRPO.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SreeyaSrikanth/RL-Prompt-Compression/blob/main/Another_copy_of_phi3_GRPO.ipynb)
 
 ## 📜 Overview
 
